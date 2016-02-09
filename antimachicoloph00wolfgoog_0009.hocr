@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antimachicoloph00wolfgoog_0009.png"; bbox 0 0 3125 5009; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 839 322 2379 409">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 839 322 2379 409">
+     <span class='ocr_line' id='line_1_1' title="bbox 839 322 2379 409; baseline 0.003 -8"><span class='ocrx_word' id='word_1_1' title='bbox 839 322 922 403; x_wconf 87' lang='lat' dir='ltr'><strong>iv</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1407 349 1877 409; x_wconf 76' lang='lat' dir='ltr'><strong>PRAEFATto</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1922 352 2379 409; x_wconf 76' lang='lat' dir='ltr'><strong>EDIToms.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 901 580 2907 852">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 901 580 2907 852">
+     <span class='ocr_line' id='line_1_2' title="bbox 901 580 2901 694; baseline -0.001 -31"><span class='ocrx_word' id='word_1_4' title='bbox 901 583 1352 691; x_wconf 83' lang='lat' dir='ltr'><strong>separatim·</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1376 583 1777 694; x_wconf 81' lang='lat' dir='ltr'><strong>congessi,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1818 595 1911 665; x_wconf 86' lang='lat' dir='ltr'><strong>ut</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1937 582 2219 665; x_wconf 84' lang='lat' dir='ltr'><strong>lectori</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2259 580 2599 665; x_wconf 82' lang='lat' dir='ltr'><strong>facilitas</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2637 580 2901 675; x_wconf 84' lang='lat' dir='ltr'><strong>fieret,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 907 758 2907 852; baseline -0.001 -3"><span class='ocrx_word' id='word_1_10' title='bbox 907 767 976 849; x_wconf 92' lang='lat' dir='ltr'><strong>si</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1051 758 1425 851; x_wconf 54' lang='lat' dir='ltr'><strong>muiilum</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1511 768 1900 852; x_wconf 79' lang='lat' dir='ltr'><strong>Auctoris</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1984 768 2269 851; x_wconf 81' lang='lat' dir='ltr'><strong>Nostri</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2338 781 2639 851; x_wconf 84' lang='lat' dir='ltr'><strong>statum</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2709 796 2907 850; x_wconf 90' lang='lat' dir='ltr'><strong>con-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 805 931 1696 1063">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 805 931 1696 1063">
+     <span class='ocr_line' id='line_1_4' title="bbox 805 931 1696 1063; baseline -0.001 -28"><span class='ocrx_word' id='word_1_16' title='bbox 805 1002 824 1021; x_wconf 89' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 901 931 1274 1063; x_wconf 67' lang='lat' dir='ltr'><strong>templari</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1311 952 1696 1037; x_wconf 77' lang='lat' dir='ltr'><strong>libuisset.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
